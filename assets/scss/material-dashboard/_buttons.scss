@@ -7,9 +7,10 @@
   position: relative;
   overflow: hidden;
 
-  &:not([class*="btn-outline-"]) {
-    border: 0;
-  }
+  //pegasus removed to preserve outlines on pg-button-secondary
+  //&:not([class*="btn-outline-"]) {
+  //  border: 0;
+  //}
 
   &:active,
   &:active:focus,

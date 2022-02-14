@@ -4,14 +4,16 @@
   }
 }
 
-.btn-close {
-  &:focus {
-    box-shadow: none;
-  }
-}
+// Pegasus removed these from the default files, to restore the close button on messages
+//.btn-close {
+//  &:focus {
+//    box-shadow: none;
+//  }
+//}
 
-.alert-dismissible {
-  .btn-close {
-    background-image: none;
-  }
-}
+//remove
+//.alert-dismissible {
+//  .btn-close {
+//    background-image: none;
+//  }
+//}
