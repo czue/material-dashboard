@@ -1,5 +1,45 @@
 # Change Log
 
+## [3.1.0] 2023-05-03
+### Updates & Improvements
+- update Bootstrap to v5.2.2
+- update Popper to v2.11.6
+- fix issues
+- update sidebar & navbar
+
+## [3.0.5] 2022-10-10
+### Updates & Improvements
+- update Bootstrap to v5.2.2
+- update Popper to v2.11.6
+- update `start-0` and `end-0` classes on RTL
+- fix perfectScrollbar issue on RTL
+- fix the NavTabs second active tab issue
+
+## [3.0.4] 2022-06-15
+### BugFixing
+- fix inputs on RTL
+- update <html> tag border
+
+## [3.0.3] 2022-06-08
+### Update and Improvements
+- update Bootstrap to v5.2.0-beta1
+- fix modal close button on docs
+- update color of `.form-control` on Dark Mode
+- update typo on card stats
+- fix Safari browser button styling issue
+- add sticky navbar option on Profile page
+- add link to Sign In page in navbar
+- update dropdown item color on hover - Dark Mode
+
+## [3.0.2] 2022-03-25
+### Updates
+- update SCSS folder
+
+## [3.0.1] 2022-03-07
+### Update and Improvements
+- fix running 'npm install' issue
+- fix SCSS compiling issues
+
 ## [3.0.0] 2021-10-19
 ### Refactor and Improvements
 - Update Bootstrap to v5.1.3
